@@ -1,0 +1,211 @@
+[
+{
+  "context": {
+    "conn_string": "string",
+    "user_id": "string",
+    "user_login": "string",
+    "user_privilege": "string"
+  },
+  "infosBillet": {
+    "billetPromo": true,
+    "conditionPeriodeutilisation": "DATE_ACHAT",
+    "conditionValidite": "DATE_FIXE",
+    "confirmationBillet": "NON_CONFIRME",
+    "dtDebutValidite": "string",
+    "dtFinUtilisation": "string",
+    "dtFinValidite": "string",
+    "dtPremiereUtilisation": "string",
+    "dureeUtilisationApplicable": 0,
+    "dureeUtilisationStandard": 0,
+    "dureeValidite": 0,
+    "idBillet": "string",
+    "idDossier": "7896541230",
+    "idOperateur": "123456789",
+    "idReservation": "84181047519212524491",
+    "listInfosTBilletVoyageVoyageurs": [
+      {
+        "idBillet": "string",
+        "idSiege": "string",
+        "idTarif": "string",
+        "idVoyage": "string",
+        "idVoyageur": "string",
+        "montant": 0,
+        "strNumerosiege": "string",
+        "strNumerovoiture": "string",
+        "strNumerovoyageur": "string",
+        "strRefvehicule": "string"
+      }
+    ],
+    "listinfosTBilletVoyage": [
+      {
+        "idBillet": "string",
+        "idVoyage": "string"
+      }
+    ],
+    "listinfosTBilletVoyageur": [
+      {
+        "idBillet": "string",
+        "idClient": "string",
+        "idVoyageur": "string"
+      }
+    ],
+    "listinfosTBilletperimetrevaliditeligne": [
+      {
+        "idBillet": "string",
+        "idLigne": "string"
+      }
+    ],
+    "listinfosTBilletperimetrevaliditeoperation": [
+      {
+        "idBillet": "string",
+        "idDepart": "string",
+        "idOperation": "string"
+      }
+    ],
+    "listinfosTBilletperimetrevaliditeoperationvoyage": [
+      {
+        "idBillet": "string",
+        "idOperationVoyage": "string"
+      }
+    ],
+    "listinfosTBilletperimetrevaliditetrajet": [
+      {
+        "idBillet": "string",
+        "idDepart": "string",
+        "idTrajet": "string"
+      }
+    ],
+    "listinfosTUtilisationBillet": [
+      {
+        "dtUtilisation": "string",
+        "idAgentcontrolleur": "string",
+        "idAppareilcontrolleur": "string",
+        "idBillet": "string",
+        "idOperationvoyage": "string",
+        "idUtilisation": "string",
+        "strGps": "string"
+      }
+    ],
+    "montantBase": 0,
+    "montantHorsPromo": 0,
+    "montantPrestations": 0,
+    "montantRemise": 0,
+    "montantTotal": 0,
+    "nbUtilisation": 0,
+    "nbUtilisationMax": 0,
+    "perimetreValidite": "LIGNE",
+    "refBillet": "string",
+    "statutBillet": "DRAFT",
+    "strDescription": "string",
+    "strDescriptionCondition": "string",
+    "tauxPromo": 0,
+    "tauxRemise": 0,
+    "validite": "VALIDE"
+  }
+}
+,
+{
+"context": {
+"conn_string": "string",
+"user_id": "string",
+"user_login": "string",
+"user_privilege": "string"
+},
+"infosBillet": {
+"billetPromo": true,
+"conditionPeriodeutilisation": "DATE_ACHAT",
+"conditionValidite": "DATE_FIXE",
+"confirmationBillet": "NON_CONFIRME",
+"dtDebutValidite": "string",
+"dtFinUtilisation": "string",
+"dtFinValidite": "string",
+"dtPremiereUtilisation": "string",
+"dureeUtilisationApplicable": 0,
+"dureeUtilisationStandard": 0,
+"dureeValidite": 0,
+"idBillet": "string",
+"idDossier": "7896541230",
+"idOperateur": "123456789",
+"idReservation": "string",
+"listInfosTBilletVoyageVoyageurs": [
+{
+"idBillet": "string",
+"idSiege": "string",
+"idTarif": "string",
+"idVoyage": "string",
+"idVoyageur": "string",
+"montant": 0,
+"strNumerosiege": "string",
+"strNumerovoiture": "string",
+"strNumerovoyageur": "string",
+"strRefvehicule": "string"
+}
+],
+"listinfosTBilletVoyage": [
+{
+"idBillet": "string",
+"idVoyage": "string"
+}
+],
+"listinfosTBilletVoyageur": [
+{
+"idBillet": "string",
+"idClient": "string",
+"idVoyageur": "string"
+}
+],
+"listinfosTBilletperimetrevaliditeligne": [
+{
+"idBillet": "string",
+"idLigne": "string"
+}
+],
+"listinfosTBilletperimetrevaliditeoperation": [
+{
+"idBillet": "string",
+"idDepart": "string",
+"idOperation": "string"
+}
+],
+"listinfosTBilletperimetrevaliditeoperationvoyage": [
+{
+"idBillet": "string",
+"idOperationVoyage": "string"
+}
+],
+"listinfosTBilletperimetrevaliditetrajet": [
+{
+"idBillet": "string",
+"idDepart": "string",
+"idTrajet": "string"
+}
+],
+"listinfosTUtilisationBillet": [
+{
+"dtUtilisation": "string",
+"idAgentcontrolleur": "string",
+"idAppareilcontrolleur": "string",
+"idBillet": "string",
+"idOperationvoyage": "string",
+"idUtilisation": "string",
+"strGps": "string"
+}
+],
+"montantBase": 0,
+"montantHorsPromo": 0,
+"montantPrestations": 0,
+"montantRemise": 0,
+"montantTotal": 0,
+"nbUtilisation": 0,
+"nbUtilisationMax": 0,
+"perimetreValidite": "LIGNE",
+"refBillet": "string",
+"statutBillet": "DRAFT",
+"strDescription": "string",
+"strDescriptionCondition": "string",
+"tauxPromo": 0,
+"tauxRemise": 0,
+"validite": "VALIDE"
+}
+}
+  ]
